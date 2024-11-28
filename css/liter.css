@@ -1,0 +1,297 @@
+main{
+    padding-top: 65px;
+}
+.vst{
+    padding: 2%;
+    width: 80%;
+    margin-top: 2%;
+    display: inline-block;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 140%;
+    font-family: GothamPro;
+    font-weight:900;
+    border: 3px solid  rgb(227, 199, 158);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color:whitesmoke;
+}
+.h img{
+    margin-top: 30px;
+  margin-left: 39%;
+  height: 30px;
+}
+.h h1{
+    text-align: center;
+}
+.lit1{
+    background-color: whitesmoke;
+    margin-top: 5%;
+    width: 50%;
+    display: flex;
+    /* border:3px solid rgb(0, 0, 0); */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    position: relative;
+    
+}
+
+.lit1 img{
+    height: 300px;
+    
+
+}
+.lit1 h4{
+    color:rgb(146, 24, 24)
+}
+.lit2{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    margin-left: 50%;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    text-align: right;
+ 
+    
+    
+}
+.lit2 img{
+    height: 300px;
+}
+.lit2 h4{
+   
+    color:rgb(146, 24, 24)
+}
+.lit3{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    
+}
+
+.lit3 img{
+    height: 300px;
+    
+}
+.lit3 h4{
+    color:rgb(146, 24, 24)
+}
+.lit4{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    margin-left: 50%;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    text-align: right;
+}
+.lit4 img{
+    height: 300px;
+}
+.lit4 h4{
+    color:rgb(146, 24, 24)
+}
+.lit5{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+}
+.lit5 img{
+    height: 300px;
+}
+.lit5 h4{
+    color:rgb(146, 24, 24)
+}
+.lit6{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    margin-left: 50%;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    text-align: right;
+}
+.lit6 img{
+    height: 300px;
+}
+.lit6 h4{
+    color:rgb(146, 24, 24)
+}
+.lit7{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+}
+.lit7 img{
+    height: 300px;
+}
+.lit7 h4{
+    color:rgb(146, 24, 24)
+}
+.lit8{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    margin-left: 50%;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    text-align: right;
+}
+.lit8 img{
+    height: 300px;
+}
+.lit8 h4{
+    color:rgb(146, 24, 24)
+}
+.lit9{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:50px ;
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+}
+.lit9 img{
+    height: 300px;
+}
+.lit9 h4{
+    color:rgb(146, 24, 24)
+}
+.lit10{
+    background-color: whitesmoke;
+    width: 50%;
+    display: flex;
+    margin-left: 50%;
+    border-bottom-left-radius:50px;
+    border-top-left-radius:50px;
+    box-shadow: 3px 1px 10px 1px rgb(227, 199, 158);
+    font-size: 35px;
+    font-family: GothamPro;
+    font-weight: 500;
+    text-align: right;
+}
+.lit10 img{
+    height: 300px;
+}
+.lit10 h4{
+    color:rgb(146, 24, 24)
+}
+.soc{
+    border-top: 3px solid rgb(238, 225, 160);
+    padding-top: 2%;
+}         
+@media screen and (min-width:320px) and (max-width:767px){
+body{
+    position: absolute;
+}
+.h img{
+margin-top: 13%;
+margin-left: 35%;
+}
+.lit1{
+ font-size: 30px;
+}
+.lit2{
+    font-size: 28px;
+}
+.lit3{
+    font-size: 24px;
+}
+.lit4{
+    font-size: 25px;
+
+}
+.lit5{
+    font-size: 25px;
+}
+.lit6{
+    font-size: 30px;
+
+}
+.lit7{
+    font-size: 30px;
+}
+.lit9{
+    font-size: 25px;
+}
+.lit10{
+    font-size: 30px;
+}
+
+}
+
+@media screen and (min-width:768px) and (max-width:1023px){
+    .lit1{
+        font-size: 30px;
+       }
+       .lit2{
+           font-size: 28px;
+       }
+       .lit3{
+           font-size: 24px;
+       }
+       .lit4{
+           font-size: 25px;
+       
+       }
+       .lit5{
+           font-size: 25px;
+       }
+       .lit6{
+           font-size: 30px;
+       
+       }
+       .lit7{
+           font-size: 30px;
+       }
+       .lit9{
+           font-size: 25px;
+       }
+       .lit10{
+           font-size: 30px;
+       }
+}
